@@ -55,12 +55,6 @@ I enjoy understanding how things work under the hood—from low-level programmin
 
 ---
 
-## 📫 Connect with Me
-
-* LinkedIn: linkedin.com/in/charifsifi34
-
----
-
 ## ⚡ Mindset
 
 > “Understand the system. Don’t just use it.”
