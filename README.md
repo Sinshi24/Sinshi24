@@ -12,7 +12,6 @@ I enjoy understanding how things work under the hood—from low-level programmin
 * 🎓 Computer Engineering student
 * 🧠 Interested in: AI, Operating Systems, Cybersecurity, Hardware and Embedded Systems
 * 🛠️ Building projects that mix software + hardware
-* 🌍 Based in Morocco
 
 ---
 
