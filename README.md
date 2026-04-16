@@ -1,6 +1,6 @@
 ## # Hi there 👋, I'm SINSHI.JR
 
-## 💻 Computer Engineering Student | Software & Systems Enthusiast
+## 💻 Computer Engineering Student 
 
 I’m passionate about building efficient systems that connect **software, networks, and hardware**.
 I enjoy understanding how things work under the hood—from low-level programming to secure infrastructures.
